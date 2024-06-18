@@ -30,3 +30,8 @@ Write a function two take in n words and returns a single integer of their combi
 - A word is worth 2 points if it has an even number of vowels
 - Output should be the summed total of all scores of the words
 - For the purposes of this excercise vowels will consist of [a,e,i,o,u,y]
+
+Example Input: `"programming is awesome"`
+Example Output: 4
+- Programming = 1 for 3 vowels; is = 1 for 1 vowel; awesome = 2 for 4 vowels
+- 1 + 1 + 2 = 4
