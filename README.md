@@ -6,6 +6,7 @@ Welcome! All lecture materials and Assignments will be posted here for you to re
 - All Python Files built in lecture can be found [here.](Python/Lecture%20Code/)
 - Python Assignments can be found [here.](Python/Assignments/)
 
-### Assignments
-- Excercises are expected to be completed by EOD on the day they are assigned.
-- Challenges are extra to help you work on your skills.
+## SQL
+- SQL Lecture code will not be uploaded here, but any .sql or .bak files that we work with will be
+- Find the SQL Data [here.](SQL/Data/)
+- SQL Assignments should be worked on throughout the week, [here.](SQL/Assignments/)
