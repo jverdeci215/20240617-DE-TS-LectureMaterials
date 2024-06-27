@@ -10,3 +10,5 @@ Welcome! All lecture materials and Assignments will be posted here for you to re
 - SQL Lecture code will not be uploaded here, but any .sql or .bak files that we work with will be
 - Find the SQL Data [here.](SQL/Data/)
 - SQL Assignments should be worked on throughout the week, [here.](SQL/Assignments/)
+
+- Making a quick change here.
