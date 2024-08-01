@@ -1,3 +1,6 @@
+# Exercise 1: Generate Rows, Add Sequence, and Select Values
+
+
 ##  Create the Transformation and Add the Generate Rows Step
 In this section of the exercise, you create a new transformation, and then add, configure, and preview the
 Generate rows step to add 10 rows with three fields to the stream.
