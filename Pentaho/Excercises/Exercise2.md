@@ -47,7 +47,7 @@ input step to the canvas.
 9. To preview the data and confirm it is configured properly, click Preview, and then click OK.
 10. Verify the data generated is correct by comparing your data with the screenshot:
 
-![DataValidatition4]
+![DataValidatition4](./Images/DataVerification4.png)
 
 11. To close the Examine preview data dialog, click Close.
 12. To close the `csvi-order_file` dialog, click OK.
@@ -122,7 +122,7 @@ screenshot below for guidance.
 sure to choose the case target values from the pop-up menu. For example, the case target France
 goes to the tfo-orders_france.txt step.
 
-![CanvasMap]
+![CanvasMap](./Images/CanvasMap.png)
 
 15. Save the transformation.
 
