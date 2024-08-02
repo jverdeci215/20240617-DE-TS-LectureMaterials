@@ -115,6 +115,7 @@ Then, click OK.
 
 ## Solution Details
 The solution to this exercise can be found at:
-`/home/pentaho/course_files/pdi1000l/solutions/exercises`
+[`/Pentaho/Solutions`](../Solutions/)
+
 File:
 `ex1_select_values.ktr`

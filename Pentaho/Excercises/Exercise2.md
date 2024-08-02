@@ -171,14 +171,14 @@ country text file.
 
 ## Solution Details
 The solution to this exercise can be found at:
-`/home/pentaho/course_files/pdi1000l/solutions/exercises`
+[`/Pentaho/Solutions`](../Solutions/)
 
 File:
 `ex2_csv_input_text_output.ktr`
 
 Output:
 ```
-/home/pentaho/course_files/pdi1000l/solutions/output_complete/
+/Pentaho/Exercises/Data/OutputData
 orders_australia.txt
 orders_france.txt
 orders_germany.txt
