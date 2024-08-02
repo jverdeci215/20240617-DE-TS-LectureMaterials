@@ -1,0 +1,5 @@
+ordernumber;productcode;quantityordered;priceeach;orderlinenumber;orderdate;shippeddate;status;customernumber;country
+10101;S18_2325       ;25;108.1;4;2020/01/09 00:00:00.000;2020/01/11 00:00:00.000;Shipped        ;128;Germany                                           
+10101;S18_2795       ;26;167.1;1;2020/01/09 00:00:00.000;2020/01/11 00:00:00.000;Shipped        ;128;Germany                                           
+10101;S24_1937       ;45;32.5;3;2020/01/09 00:00:00.000;2020/01/11 00:00:00.000;Shipped        ;128;Germany                                           
+10101;S24_2022       ;46;44.4;2;2020/01/09 00:00:00.000;2020/01/11 00:00:00.000;Shipped        ;128;Germany                                           
