@@ -6,7 +6,7 @@ the input and output folders.
 
 1. To create a new transformation, on the toolbar, click the New file button, and then select
 Transformation.
-2. To name the transformation and save it to the `PDI_Trn_Objects `folder, in the Save dialog:
+2. To name the transformation and save it to the `PDI_Trn_Objects` folder, in the Save dialog:
     - Click `>` to expand the Public folder.
     - Click to select the `PDI_Trn_Objects` folder.
     - In the File name, type `ex2_csv_input_text_output`
@@ -18,7 +18,7 @@ Transformation.
 
     |Parameter | Default Value |
     |----------|---------------|
-    |KTR_DIR_INPUT | /home/pentaho/course_files/pdi1000l/data_files input |
+    |KTR_DIR_INPUT | /home/pentaho/course_files/pdi1000l/data_files/input |
     |KTR_DIR_OUTPUT | /home/pentaho/course_files/pdi1000l/data_files/output2
     *Note: This folder does not exist, but it will be created for you when the transformation executes. This parameter will override the variable with the same name.* |
 
