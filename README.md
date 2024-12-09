@@ -5,6 +5,7 @@ Welcome! All lecture materials and Assignments will be posted here for you to re
 ##  Python
 - All Python Files built in lecture can be found [here.](Python/Lecture%20Code/)
 - Python Assignments can be found [here.](Python/Assignments/)
+- [Tensor](./tensor.py) class and [Tensor UnitTest](./tensorunittest.py) files serve as examples of Class Functionality and Unittesting
 
 ## SQL
 - SQL Lecture code will not be uploaded here, but any .sql or .bak files that we work with will be
